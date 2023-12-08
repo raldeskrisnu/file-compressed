@@ -1,0 +1,39 @@
+{
+  "Taxable": false,
+  "BillAddr": {
+    "Id": "75",
+    "Line1": "9958 - 67 Street",
+    "City": "Toronto",
+    "CountrySubDivisionCode": "ON",
+    "PostalCode": "M2R 4R2"
+  },
+  "Job": false,
+  "BillWithParent": false,
+  "Balance": 0.0,
+  "BalanceWithJobs": 0.0,
+  "CurrencyRef": {
+    "name": "Canadian Dollar",
+    "value": "CAD"
+  },
+  "PreferredDeliveryMethod": "None",
+  "IsProject": false,
+  "ClientEntityId": "0",
+  "GivenName": "Moturu",
+  "FamilyName": "Tapasvi",
+  "FullyQualifiedName": "Moturu Tapasvi",
+  "DisplayName": "Moturu Tapasvi",
+  "PrintOnCheckName": "Moturu Tapasviaa",
+  "Active": true,
+  "V4IDPseudonym": "002099bd419205491e453e8f122a4cdbc34033",
+  "PrimaryPhone": {
+    "FreeFormNumber": "905 553-2677"
+  },
+  "Id": "74",
+  "SyncToken": "0",
+  "MetaData": {
+    "CreateTime": "2023-12-08T03:01:06Z",
+    "LastUpdatedTime": "2023-12-08T03:01:06Z"
+  },
+  "domain": "QBO",
+  "sparse": false
+}
